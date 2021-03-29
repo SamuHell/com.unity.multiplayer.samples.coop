@@ -57,6 +57,10 @@ Running the game over internet currently requires setting up a [Photon Transport
 
 Alternatively you can use Port Forwarding. The wonderful https://portforward.com/ site has guides on how to enable port forwarding on a huge number of routers. BossRoom uses `UDP` and needs a `9998` external port to be open. 
 
+---------------
+
+For a deep dive in MLAPI and Boss Room, visit our [doc](https://docs-multiplayer.unity3d.com/) and [Learn](https://docs-multiplayer.unity3d.com/docs/learn/introduction) sections.
+
 ------------------------------------------
 
 ## Exploring the project
