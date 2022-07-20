@@ -1,7 +1,7 @@
 ![Banner](Documentation/Images/Banner.png)
 # Boss Room - Co-op multiplayer RPG and utilities built with Unity Netcode for GameObjects
 
-| Solutions architects are available on [Discord](https://discord.gg/mNgM2XRDpb) and [forums](https://forum.unity.com/forums/multiplayer.26/) to help you work through issues you may encounter when using Boss Room. |
+| Solutions architects are available on [Discord](https://discord.gg/mNgM2XRDpb) and [forums](https://forum.unity.com/forums/multiplayer.26/) to help you work through issues you may encounter when using Boss Room. | test test
 | -- |
 
 Boss Room is a fully functional co-op multiplayer RPG made with Unity Netcode. It is built to serve as an educational sample that showcases certain typical gameplay [patterns](https://docs-multiplayer.unity3d.com/netcode/current/learn/bossroom-examples/bossroom-actions) that are frequently featured in similar networked games.
